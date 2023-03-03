@@ -1,5 +1,21 @@
 export const AvalancheTokens = [
   {
+    name: 'Shirak',
+    symbol: 'SHK',
+    decimals: 18,
+    address: '0x7D57f563db93F257BD556D86e6FEe7079c80226e',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x7D57f563db93F257BD556D86e6FEe7079c80226e/logo.png',
+  },
+  {
+    name: 'VapeToken',
+    symbol: 'VAPE',
+    address: '0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55',
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55/logo.png',
+  },
+  {
     name: 'VaporNodes',
     symbol: 'VPND',
     address: '0x83a283641C6B4DF383BCDDf807193284C84c5342',
