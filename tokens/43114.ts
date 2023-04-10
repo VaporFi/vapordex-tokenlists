@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
   {
+    name: 'Hatchy',
+    symbol: 'HATCHY',
+    address: '0x502580fc390606b47FC3b741d6D49909383c28a9',
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png',
+  },
+  {
     name: 'Shirak',
     symbol: 'SHK',
     decimals: 18,
