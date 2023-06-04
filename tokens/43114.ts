@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
   {
+    name: 'Euro Coin',
+    symbol: 'EUROC',
+    address: '0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD',
+    decimals: 6,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD/logo.png',
+  },
+  {
     name: 'Hatchy',
     symbol: 'HATCHY',
     address: '0x502580fc390606b47FC3b741d6D49909383c28a9',
