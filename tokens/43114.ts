@@ -1,5 +1,12 @@
 export const AvalancheTokens = [
   {
+    name: 'Fluid',
+    symbol: 'FLD',
+    address: '0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F',
+    decimals: 18, 
+    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo_24.png',
+},
+  {
     name: 'Euro Coin',
     symbol: 'EUROC',
     address: '0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD',
