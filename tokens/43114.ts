@@ -1,6 +1,6 @@
 export const AvalancheTokens = [
   {
-    name: 'Fluid',
+    name: 'Fold',
     symbol: 'FLD',
     address: '0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F',
     decimals: 18, 
