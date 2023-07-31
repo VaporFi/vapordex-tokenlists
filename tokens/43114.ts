@@ -1,5 +1,12 @@
 export const AvalancheTokens = [
   {
+    name: 'DEXTF Token',
+    symbol: 'DEXTF',
+    address: '0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA',
+    decimals: 18, 
+    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA/logo_24.png',
+},
+  {
     name: 'Fold',
     symbol: 'FLD',
     address: '0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F',
