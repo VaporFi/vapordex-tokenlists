@@ -1,5 +1,12 @@
 export const AvalancheTokens = [
   {
+    name: 'Asgard',
+    symbol: 'ASG',
+    address: '0xF36de0989d83FDc554FC7b93E5D10722677CCFBC',
+    decimals: 18, 
+    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xF36de0989d83FDc554FC7b93E5D10722677CCFBC/logo_24.png',
+},
+  {
     name: 'DEXTF Token',
     symbol: 'DEXTF',
     address: '0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA',
