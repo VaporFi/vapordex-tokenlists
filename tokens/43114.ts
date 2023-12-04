@@ -1,5 +1,12 @@
 export const AvalancheTokens = [
   {
+    name: 'Shrapnel',
+    symbol: 'SHRAP',
+    address: '0x8b3785CDA614D0F8Bf5a8cF1dfbB3CC4466E58fc',
+    decimals: 18, 
+    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x8b3785CDA614D0F8Bf5a8cF1dfbB3CC4466E58fc/logo_24.png',
+},
+  {
     name: 'Asgard',
     symbol: 'ASG',
     address: '0xF36de0989d83FDc554FC7b93E5D10722677CCFBC',
