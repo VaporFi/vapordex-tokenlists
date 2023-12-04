@@ -2,31 +2,35 @@ export const AvalancheTokens = [
   {
     name: 'Shrapnel',
     symbol: 'SHRAP',
-    address: '0x8b3785CDA614D0F8Bf5a8cF1dfbB3CC4466E58fc',
-    decimals: 18, 
-    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x8b3785CDA614D0F8Bf5a8cF1dfbB3CC4466E58fc/logo_24.png',
-},
+    address: '0xd402298a793948698b9a63311404fbbee944eafd',
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xd402298a793948698b9a63311404fbbee944eafd/logo_24.png',
+  },
   {
     name: 'Asgard',
     symbol: 'ASG',
     address: '0xF36de0989d83FDc554FC7b93E5D10722677CCFBC',
-    decimals: 18, 
-    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xF36de0989d83FDc554FC7b93E5D10722677CCFBC/logo_24.png',
-},
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xF36de0989d83FDc554FC7b93E5D10722677CCFBC/logo_24.png',
+  },
   {
     name: 'DEXTF Token',
     symbol: 'DEXTF',
     address: '0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA',
-    decimals: 18, 
-    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA/logo_24.png',
-},
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA/logo_24.png',
+  },
   {
     name: 'Fold',
     symbol: 'FLD',
     address: '0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F',
-    decimals: 18, 
-    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo_24.png',
-},
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F/logo_24.png',
+  },
   {
     name: 'Euro Coin',
     symbol: 'EUROC',
