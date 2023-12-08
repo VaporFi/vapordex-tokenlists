@@ -1,11 +1,20 @@
 export const AvalancheTokens = [
-    {
+  {
+    address: '0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937',
+    decimals: 18,
+    name: 'w3ULL',
+    symbol: 'w3ULL',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937/logo.png',
+  },
+  {
     name: 'Coq Inu',
     symbol: 'COQ',
     address: '0x420FcA0121DC28039145009570975747295f2329',
-    decimals: 18, 
-    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x420FcA0121DC28039145009570975747295f2329/logo_24.png',
-},
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x420FcA0121DC28039145009570975747295f2329/logo_24.png',
+  },
   {
     name: 'Shrapnel',
     symbol: 'SHRAP',
