@@ -1,4 +1,11 @@
 export const AvalancheTokens = [
+    {
+    name: 'Coq Inu',
+    symbol: 'COQ',
+    address: '0x420FcA0121DC28039145009570975747295f2329',
+    decimals: 18, 
+    logoURI: 'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x420FcA0121DC28039145009570975747295f2329/logo_24.png',
+},
   {
     name: 'Shrapnel',
     symbol: 'SHRAP',
