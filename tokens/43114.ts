@@ -1727,4 +1727,13 @@ export const AvalancheTokens = [
     logoURI:
       'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_24.png',
   },
+  {
+    address: '0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1',
+    chainId: 43_114,
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/vapordex-tokenlists/main/tokens/assets/43114/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1/logo.png',
+    name: 'Kimbo',
+    symbol: 'KIMBO',
+  },
 ]
