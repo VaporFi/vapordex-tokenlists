@@ -2,7 +2,7 @@ export const AvalancheTokens = [
   {
     address: '0x799a0f809BA7FBa8CA2f0563Fe2659973714beB9',
     decimals: 18,
-    name: 'SNOWLOARD',
+    name: 'SNOWLORD',
     symbol: 'LORD',
     logoURI:
       'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x799a0f809BA7FBa8CA2f0563Fe2659973714beB9/logo.png',
