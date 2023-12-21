@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
   {
+    address: '0x799a0f809BA7FBa8CA2f0563Fe2659973714beB9',
+    decimals: 18,
+    name: 'LORD',
+    symbol: 'LORD',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x799a0f809BA7FBa8CA2f0563Fe2659973714beB9/logo.png',
+  },
+  {
     address: '0xA4F282457980856c36380174283d2CB278eA2B37',
     decimals: 18,
     name: 'RAIN',
