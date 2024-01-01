@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
   {
+    address: '0x570c091ba99668d873f99e0f8a49d8291d7a107f',
+    decimals: 18,
+    name: 'VAGENE',
+    symbol: 'VAG',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x570c091ba99668d873f99e0f8a49d8291d7a107f/logo.png',
+  },
+  {
     address: '0x2dA8312e2C08B79104c6B18bA26Bc7065ABEC704',
     chainId: 43_114,
     decimals: 18,
