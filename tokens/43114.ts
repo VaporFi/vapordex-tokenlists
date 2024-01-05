@@ -1,9 +1,18 @@
 export const AvalancheTokens = [
-    {
+  {
+    address: '0x982C2715CA041F2f1B85b5C81Fc8981ba48Fe62C',
+    chainId: 43_114,
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x982C2715CA041F2f1B85b5C81Fc8981ba48Fe62C/logo.png',
+    name: 'Snow Inu',
+    symbol: 'SNOW',
+  },
+  {
     address: '0x369814a8688998789c64ef84972c2312679ef5c7',
     decimals: 18,
-    name: 'PIE',
-    symbol: 'OCCUPIE',
+    symbol: 'PIE',
+    name: 'OCCUPIE',
     logoURI:
       'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x369814a8688998789c64ef84972c2312679ef5c7/logo.png',
   },
