@@ -1,6 +1,22 @@
 export const AvalancheTokens = [
   {
     address: '0x0D8938E105AF7786c17F162cD36db2d953fa0a2f',
+    decimals: 18,
+    name: 'SUS',
+    symbol: 'SUS',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x0D8938E105AF7786c17F162cD36db2d953fa0a2f/logo.png',
+  },
+  {
+    address: '0x19c79F282d151995D91f6dbdda2739701F9C47AA',
+    decimals: 18,
+    name: 'BEAR',
+    symbol: 'BEAR',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x19c79F282d151995D91f6dbdda2739701F9C47AA/logo.png',
+  },
+  {
+    address: '0x982C2715CA041F2f1B85b5C81Fc8981ba48Fe62C',
     chainId: 43_114,
     decimals: 18,
     logoURI:
