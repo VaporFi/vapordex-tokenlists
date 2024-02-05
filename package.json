@@ -4,18 +4,31 @@
   "description": "Listed tokens on VaporDEX.",
   "license": "MIT",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
-    "build": "tsdx build",
-    "prepublishOnly": "tsdx build",
-    "start": "tsdx watch",
-    "test": "tsdx test"
+    "build": "tsup build"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.png": "pngquant --quality=65-80 --ext .png --force && git add"
   },
   "prettier": {
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
   },
+  "devDependencies": {
+    "husky": "^9.0.10",
+    "lint-staged": "^15.2.1",
+    "pngquant-bin": "^8.0.1",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  },
   "engines": {
-    "node": ">=10"
+    "node": ">=18"
   }
 }
