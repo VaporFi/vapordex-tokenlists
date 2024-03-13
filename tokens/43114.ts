@@ -1,4 +1,12 @@
 export const AvalancheTokens = [
+    {
+    address: '0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702',
+    decimals: 18,
+    name: 'dogwifhat',
+    symbol: '$WIF',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702/logo.png',
+  },
   {
     address: '0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a',
     decimals: 18,
