@@ -1,5 +1,14 @@
 export const TelosMainnet = [
   {
+    address: '0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905',
+    chainId: 40,
+    decimals: 18,
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png',
+    name: 'Staked TLOS',
+    symbol: 'STLOS',
+  },
+  {
     address: '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E',
     chainId: 40,
     decimals: 18,
