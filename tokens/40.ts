@@ -6,7 +6,7 @@ export const TelosMainnet = [
     logoURI:
       'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png',
     name: 'Staked TLOS',
-    symbol: 'sTLOS',
+    symbol: 'STLOS',
   },
   {
     address: '0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E',
