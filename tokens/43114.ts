@@ -1,4 +1,12 @@
 export const AvalancheTokens = [
+      {
+    address: '0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5',
+    decimals: 18,
+    name: 'SQRCAT',
+    symbol: 'SQRCAT',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5/logo.png',
+  },
     {
     address: '0xfe07cab00DFB08C348De861FDDCBBdB9E9e49702',
     decimals: 18,
