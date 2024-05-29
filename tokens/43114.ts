@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
       {
+    address: '0xC139Aa91399600f6b72975AC3317b6d49Cb30a69',
+    decimals: 18,
+    name: 'Avax Meme Index',
+    symbol: 'AMI',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png',
+  },
+      {
     address: '0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5',
     decimals: 18,
     name: 'SQRCAT',
