@@ -1,4 +1,12 @@
 export const AvalancheTokens = [
+  {
+    address: '0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75',
+    decimals: 18,
+    name: 'AVAX GO HIGHER',
+    symbol: 'HIGHER',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75/logo.png',
+  },
       {
     address: '0xC139Aa91399600f6b72975AC3317b6d49Cb30a69',
     decimals: 18,
