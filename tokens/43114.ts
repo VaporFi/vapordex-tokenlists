@@ -1,7 +1,7 @@
 export const AvalancheTokens = [
   {
     address: '0x800BdCE6CaA3fE2bfDB738383321278536e258f8',
-    decimals: 18,
+    decimals: 8,
     name: 'Wrapped Thought',
     symbol: 'wTHT',
     logoURI:
