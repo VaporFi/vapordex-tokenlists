@@ -1,5 +1,13 @@
 export const AvalancheTokens = [
   {
+    address: '0x683306e45fDA5346496aDCb64FF3D30FCf9141A1',
+    decimals: 18,
+    name: 'Pixel Puffin',
+    symbol: 'PUFFIN',
+    logoURI:
+      'https://raw.githubusercontent.com/VaporFi/VaporDEX-tokenlists/main/tokens/assets/43114/0x683306e45fDA5346496aDCb64FF3D30FCf9141A1/logo.png',
+  },
+  {
     address: '0x800BdCE6CaA3fE2bfDB738383321278536e258f8',
     decimals: 8,
     name: 'Wrapped Thought',
